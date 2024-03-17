@@ -14,3 +14,4 @@
   - [Automating with gson library](https://github.com/google/gson)
 - [Kotlin's Guide on Serialization](https://kotlinlang.org/docs/serialization.html)
 ### Walk Through
+https://github.com/TesfayeY/NY-Times-Best-Seller/blob/228ded754b857b7560a2ec3cbb85ef5a82f85b5a/NY.gif
