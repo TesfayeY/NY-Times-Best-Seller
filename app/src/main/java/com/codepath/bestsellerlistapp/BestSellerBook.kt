@@ -12,6 +12,13 @@ class BestSellerBook {
     @SerializedName("rank")
     var rank = 0
 
+
+    @SerializedName("book_image")
+    var bookImageUrl:String?= null
+
+    @SerializedName("description")
+    var description: String? =null
+
     @JvmField
     @SerializedName("title")
     var title: String? = null
