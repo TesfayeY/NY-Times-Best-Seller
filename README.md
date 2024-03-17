@@ -13,5 +13,5 @@
   - [Manually](https://developer.android.com/reference/kotlin/android/util/JsonReader)
   - [Automating with gson library](https://github.com/google/gson)
 - [Kotlin's Guide on Serialization](https://kotlinlang.org/docs/serialization.html)
-### Walk Through
-NY.gif
+### Walk Through video
+[NY.gif](https://github.com/TesfayeY/NY-Times-Best-Seller/blob/2cae691fed021029b1a3c6ac50de6be32c2d7ad2/NY.gif)https://github.com/TesfayeY/NY-Times-Best-Seller/blob/2cae691fed021029b1a3c6ac50de6be32c2d7ad2/NY.gif
